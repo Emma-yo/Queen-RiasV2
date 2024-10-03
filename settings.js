@@ -9,13 +9,13 @@ const {
 /*--------------------------------------------*/
 
 // Owner
-global.ownername = '𝐓𝐨𝐱𝐱𝐢𝐜 𝐁𝐨𝐲' //ur owner name
+global.ownername = '⚔️⚔️sαsαkí αkαshí —͟͟͞͞𖣘' //ur owner name
 /*--------------------------------------------*/
 
 // Information
-global.botname = '𝑸𝒖𝒆𝒆𝒏 𝑹𝒊𝒂𝒔 𝑽𝟐' //ur bot name
-global.ownernumber = '2348165846414' //ur owner number
-global.premium = ["2348165846414"] // Premium User
+global.botname = '⚔️⚔️sαsαkí αkαshí-V2' //ur bot name
+global.ownernumber = '242067274660' //ur owner number
+global.premium = ["242065272794"] // Premium User
 /*--------------------------------------------*/
 // Type Choose true or false
 global.typemenu = 'v12' // menu type 'v1' => 'v12'
